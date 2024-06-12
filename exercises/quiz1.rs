@@ -13,10 +13,12 @@
 //
 // No hints this time ;)
 
-// I AM NOT DONE
-
 // Put your function here!
-// fn calculate_price_of_apples {
+fn calculate_price_of_apples(quantity: u8) -> u8 {
+    const MULT: u8 = 2;
+    
+    if quantity <= 40 { quantity * MULT } else { quantity }
+}
 
 // Don't modify this function!
 #[test]
