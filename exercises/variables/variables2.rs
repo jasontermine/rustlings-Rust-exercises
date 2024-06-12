@@ -6,7 +6,7 @@
 // I AM NOT DONE
 
 fn main() {
-    let x;
+    const x: u8 = 10;
     if x == 10 {
         println!("x is ten!");
     } else {
