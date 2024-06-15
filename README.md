@@ -1,3 +1,11 @@
+## License - Personal use
+
+This project is licensed under the terms of the MIT license. See the [LICENSE](https://github.com/rust-lang/rustlings/blob/main/LICENSE) file in the original [Rustlings](https://github.com/rust-lang/rustlings) repository for details.
+
+**_NOTE:_** This repository is my personal fork of the [Rustlings](https://github.com/rust-lang/rustlings) exercises. I'm using it to document my progress and my solutions as I learn and try to complete exercises in Rust.
+
+To view my progress and the exercises I have already finished, please see my commits. :slightly_smiling_face:
+
 <div class="oranda-hide">
 
 # rustlings 🦀❤️
